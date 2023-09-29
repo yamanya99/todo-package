@@ -1,0 +1,24 @@
+{
+  "name": "to-do-utils",
+  "version": "1.0.0",
+  "description": "create todos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamanya99/todo-package.git"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "create"
+  ],
+  "author": "moon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamanya99/todo-package/issues"
+  },
+  "homepage": "https://github.com/yamanya99/todo-package#readme"
+}
